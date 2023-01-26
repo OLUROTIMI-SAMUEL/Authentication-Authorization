@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Authentication_Authorization_InASP.NET.props" />
+</Project>
